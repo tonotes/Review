@@ -1,0 +1,19 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Review - 复盘\r\n\r\n![img](img\\12.png)\r\n\r\n## 2025年2月 复盘\r\n\r\n[2025.02.05 周三](2025.02\\02.05.md)\r\n\r\n> 简评：上证 -0.65%，量能1.3万亿，略增；76家涨停，31家跌停。春节假期发酵最强的deepseek概念爆发涨停潮，
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision e9092f662de4ce56b8e7fd086d1daffa73b5d8f9)
++++ b/README.md	(date 1738746528877)
+@@ -4,6 +4,4 @@
+ 
+ ## 2025年2月 复盘
+ 
+-[2025.02.05 周三](2025.02\02.05.md)
+-
+-> 简评：上证 -0.65%，量能1.3万亿，略增；76家涨停，31家跌停。春节假期发酵最强的deepseek概念爆发涨停潮，
+\ No newline at end of file
++[2025.02.05 周三](2025.02/02.05.md)
